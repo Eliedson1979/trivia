@@ -1,6 +1,6 @@
 # Trivia
 
-![Preview Projeto]( ./imgs/Readme-preview.png)
+![Preview Projeto]( ./images/Readme-preview.png)
 
 ## Acesse o projeto clicando <a href="">AQUI</a>
 
