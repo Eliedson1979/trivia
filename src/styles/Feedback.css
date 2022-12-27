@@ -1,0 +1,27 @@
+.text {
+  color: white;
+  padding: 10px;
+}
+
+.divBtn {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  width: 190px;
+}
+
+.btnFeedback {
+  background: white;
+  border: none;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 700;
+  height: 35px;
+  letter-spacing: 0.05em;
+  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+  width: 85px;
+}

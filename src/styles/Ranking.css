@@ -1,0 +1,12 @@
+.ranking-page {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+table, th, td {
+  border: 1px solid;
+  padding: 5px;
+}
