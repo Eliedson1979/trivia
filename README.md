@@ -1,8 +1,8 @@
-# Trivia
+# :bulb: Trivia
 
-![Preview Projeto]( ./images/Readme-preview.png)
+![Preview Projeto](./src/images/Readme-preview.png)
 
-## Acesse o projeto clicando <a href="">AQUI</a>
+## Acesse o projeto clicando <a href="https://eliedson1979.github.io/trivia/">AQUI</a>
 
 <br />
 
