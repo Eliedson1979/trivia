@@ -1,0 +1,10 @@
+.Answer-Btn {
+  background-color: #caced8;
+  color: #282c34;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.Answer-Btn:hover {
+  filter: brightness(105%);
+}

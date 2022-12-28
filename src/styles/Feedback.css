@@ -1,27 +1,66 @@
-.text {
-  color: white;
-  padding: 10px;
-}
-
-.divBtn {
+.feedback-container {
   align-items: center;
   display: flex;
-  justify-content: space-around;
-  margin: auto;
-  width: 190px;
+  flex-direction: column;
+  height: 90vh;
+  justify-content: space-evenly;
+  margin-top: 10vh;
 }
 
-.btnFeedback {
-  background: white;
-  border: none;
-  border-radius: 5px;
-  display: inline-block;
-  font-size: 15px;
-  font-weight: 700;
-  height: 35px;
-  letter-spacing: 0.05em;
-  margin: auto;
+.score-info {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 2.2rem;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.playBtn, .rankingBtn {
+  border-radius: 6px;
+  box-shadow: 1px 1px 10px rgb(62 54 63 / 46%);
+  cursor: pointer;
+  font-size: 2rem;
+  height: 100%;
+  width: 20vw;
+}
+
+.playBtn {
+  background-color: #282c34;
+  color: #ebeef5;
+
+}
+
+.rankingBtn {
+  background: #dfe3eb;
+  color: #282c34;
+}
+
+.goodMessage {
+  background-color: #697a21;
+  border-radius: 3px;
+  color: white;
+  font-size: 10rem;
+  padding: 20px;
   text-align: center;
-  text-transform: uppercase;
-  width: 85px;
+}
+
+.badMessage {
+  background-color: #dd403a;
+  border-radius: 3px;
+  color: white;
+  font-size: 7rem;
+  padding: 20px;
+  text-align: center;
+}
+
+.feedback-buttons {
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.total-score {
+  font-size: 3rem;
 }

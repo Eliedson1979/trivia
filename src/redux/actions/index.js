@@ -1,18 +1,28 @@
-import { GET_INFO_PLAYER, GET_PICTURE,
-  NEW_SCORE, UPDATE_ASSERTIONS, UPDATE_SCORE } from './actionTypes';
+export const ADD_PLAYER = 'ADD_PLAYER';
+export const ADD_CALC = 'ADD_CALC';
+export const NEW_CATEGORY = 'NEW_CATEGORY';
+export const RESET_OLD_PLAYER = 'RESET_OLD_PLAYER';
+export const RESET_SCORE = 'RESET_SCORE';
 
-export const getInfoPlayer = (name) => ({
-  type: GET_INFO_PLAYER,
-  name,
+export const addPlayer = (payload) => ({
+  type: ADD_PLAYER,
+  payload,
 });
 
-export const getPicture = (gravatarEmail) => ({
-  type: GET_PICTURE,
-  gravatarEmail,
+export const addCalc = (payload) => ({
+  type: ADD_CALC,
+  payload,
 });
 
-export const updateScore = (score) => ({ type: UPDATE_SCORE, score });
+export const changeCategory = (payload) => ({
+  type: NEW_CATEGORY,
+  payload,
+});
 
-export const updateAssertions = () => ({ type: UPDATE_ASSERTIONS });
+export const resetPlayer = () => ({
+  type: RESET_OLD_PLAYER,
+});
 
-export const newScore = () => ({ type: NEW_SCORE });
+export const resetScore = () => ({
+  type: RESET_SCORE,
+});

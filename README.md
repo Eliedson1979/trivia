@@ -1,18 +1,16 @@
-# :bulb: Trivia
+#  Trivia
 
-![Preview Projeto](./src/images/Readme-preview.png)
+![Preview Projeto](./imgs/preview.png)
 
-## Acesse o projeto clicando <a href="https://eliedson1979.github.io/trivia/">AQUI</a>
+## Acesse o projeto clicando <a href="">AQUI</a>
 
 <br />
 
 ## 📡 Desenvolvimento
 
-Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
+Projeto desenvolvido por <a href="https://www.linkedin.com/in/lauro-pereira-sr/" target="_blank">Lauro Pereira</a>, <a href="https://www.linkedin.com/in/daniel-gomes-645096226/" target="_blank">Daniel Gomes</a>, <a href="https://www.linkedin.com/in/gabrielvinicius-es/" target="_blank">Gabriel Vinicíus</a>, <a href="https://www.linkedin.com/in/mrkdavi/" target="_blank">Marcus Queiros</a> e <a href="https://www.linkedin.com/in/rsajoao/" target="_blank">João Sousa</a> na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto desenvolvemos Uma aplicação front-end que faz uso de uma API pública para criar um jogo de perguntas e respostas.
-
-Vou continuar evoluindo ele com o tempo!
+Nesse projeto em grupo desenvolvemos uma aplicação de um jogo Trivia, de perguntas e respostas. Colocamos em prática o Redux, ferramenta que nos permite passar informações de uma página para outra sem dificuldades e trabalhar com a API do Trivia.
 
 <br />
 
@@ -25,7 +23,7 @@ Vou continuar evoluindo ele com o tempo!
 ### 1 - Clone o repositório:
 
 ```
-git clone git@github.com:Eliedson1979/trivia.git
+git clone
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
@@ -69,10 +67,11 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
   </details>
 <br />
 
+
 ## ⚙️ Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Redux
+- HTML5
+- CSS
+- JavaScript
+- React.js
+- React Redux
