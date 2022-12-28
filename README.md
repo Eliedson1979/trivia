@@ -1,4 +1,4 @@
-#  Trivia
+# Trivia
 
 ![Preview Projeto](./imgs/preview.png)
 
