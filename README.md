@@ -1,4 +1,4 @@
-# Trivia
+# ![image](https://user-images.githubusercontent.com/18033491/209741475-0c57a1e8-6885-47e1-840b-96eead030bbb.png)Trivia
 
 ![Preview Projeto](./imgs/preview.png)
 
