@@ -2,7 +2,7 @@
 
 ![Preview Projeto](./imgs/preview.png)
 
-## Acesse o projeto clicando <a href="">AQUI</a>
+## Acesse o projeto clicando <a href="https://eliedson1979.github.io/trivia/">AQUI</a>
 
 <br />
 
@@ -23,7 +23,7 @@ Nesse projeto em grupo desenvolvemos uma aplicação de um jogo Trivia, de pergu
 ### 1 - Clone o repositório:
 
 ```
-git clone
+git clone git@github.com:Eliedson1979/trivia.git
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
