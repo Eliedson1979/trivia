@@ -10,7 +10,7 @@
 
 Projeto desenvolvido por <a href="https://www.linkedin.com/in/eliedson-gomes/" target="_blank">Eliedson Gomes</a>, na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto em grupo desenvolvemos uma aplicação de um jogo Trivia, de perguntas e respostas. Colocamos em prática o Redux, ferramenta que nos permite passar informações de uma página para outra sem dificuldades e trabalhar com a API do Trivia.
+Nesse projeto que foi em grupo foi desenvolvido uma aplicação de um jogo Trivia, de perguntas e respostas. Colocamos em prática o Redux, ferramenta que nos permite passar informações de uma página para outra sem dificuldades e trabalhar com a API do Trivia.
 
 <br />
 
